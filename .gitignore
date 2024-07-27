@@ -1,0 +1,14 @@
+# .gitignore
+
+# Node modules
+node_modules/
+
+# Composer vendor
+vendor/
+
+# Environment variables
+.env
+
+# Docker
+docker-compose.override.yml
+.env.docker
